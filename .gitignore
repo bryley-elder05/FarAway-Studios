@@ -1,2 +1,7 @@
-﻿
-/.vs/Processing_Sample
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Test Code 2/.vs/Test Code 2
+/Test Code 2
